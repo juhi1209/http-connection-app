@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy:gh" : "ng build --prod --base-href='https://juhi1209.github.io/http-connection-app/' && ngh"
+    "deploy:gh" : "ng build --prod --base-href=https://juhi1209.github.io/http-connection-app/ && ngh"
   },
   "private": true,
   "dependencies": {
